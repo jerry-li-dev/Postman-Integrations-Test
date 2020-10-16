@@ -1,0 +1,22 @@
+{
+  "info": {
+    "_postman_id": "0dab7ac7-20dc-43ca-96eb-10d4ae5d9cb9",
+    "name": "Dota 2 Test",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get Live",
+      "_postman_id": "d2672c6e-ae0b-47cd-95fd-4b35f3a662cf",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": ""
+      },
+      "response": []
+    }
+  ]
+}
